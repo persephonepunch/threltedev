@@ -18,7 +18,7 @@
   })
 </script>
 
-<PerspectiveCamera position={{ y: 5, z: 10, x: 10 }} lookAt={{ y: 0.5 }}>
+<PerspectiveCamera position={{ y: 2, z: 7, x: 2}} lookAt={{ y:0.3 }}>
   <OrbitControls />
 </PerspectiveCamera>
 
